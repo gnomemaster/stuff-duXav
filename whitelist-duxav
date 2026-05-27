@@ -1,0 +1,16 @@
+# Whitelist pour xavier - Maj 27/05/2026
+<!-- créée pour AdGuard Home DNS allowlist -->
+#_________________________
+# Whitelist apple
+@@||icloud.com^
+@@||apple.com^
+@@||me.com^
+@@||mac.com^
+@@||gateway.icloud.com^
+#_________________________
+@@||time.nist.gov
+@@||clouflare.com
+#_________________________
+# Whitelist hotellerie
+@@||booking.com
+@@||expedia.com
