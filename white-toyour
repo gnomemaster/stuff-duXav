@@ -1,5 +1,7 @@
-# Whitelist pour toyour - Maj 29/04/2026
-<!-- Liste créée pour AdGuard Home DNS allowlist -->
+# Whitelist pour toyour - Maj 27/05/2026
+<!-- créée pour AdGuard Home DNS allowlist -->
+#_________________________
+# Whitelist apple
 @@||icloud.com^
 @@||apple.com^
 @@||me.com^
@@ -7,3 +9,9 @@
 @@||gateway.icloud.com^
 #_________________________
 @@||time.nist.gov
+@@||clouflare.com
+#_________________________
+# Whitelist hotellerie
+@@||booking.com
+@@||expedia.com
+#_________________________
